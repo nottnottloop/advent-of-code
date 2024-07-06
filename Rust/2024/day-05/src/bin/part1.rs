@@ -17,7 +17,7 @@ struct Mapping {
 }
 
 fn main() {
-    let mut lines: Vec<&str> = include_str!("input.txt").lines().collect();
+    let mut lines: Vec<&str> = include_str!("example.txt").lines().collect();
     let seeds: Vec<u64> = parse_number_line(lines.remove(0).split("seeds: ").last().unwrap());
 
     let mut master_garden_map: Vec<Map> = Vec::new();
