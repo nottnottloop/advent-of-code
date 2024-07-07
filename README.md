@@ -4,7 +4,7 @@ Key:
 
 ✅ - Completed
 
-🤔 - Implemented own solution after getting a hint of what I need to do
+🤔 - Implemented own solution, but got an idea of the trick of how to solve the problem
 
 ❌ - Didn't complete
 
