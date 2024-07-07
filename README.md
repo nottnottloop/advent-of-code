@@ -4,10 +4,11 @@
 
 🤔 - Implemented own solution, but got an idea of the trick of how to solve the problem
 
+## Progress
 <details>
-<summary>
+<summary>2023</summary>
 
-| 2023      | Part 1 | Part 2 |
+| Day      | Part 1 | Part 2 |
 |----------|--------|--------|
 | Day 1    |    ✅    |     ✅   |
 | Day 2    |    ✅    |      ✅  |
@@ -35,5 +36,4 @@
 | Day 24   |        |        |
 | Day 25   |        |        |
 
-</summary>
 </details>
