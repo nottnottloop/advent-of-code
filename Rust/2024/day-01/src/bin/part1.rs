@@ -1,5 +1,5 @@
 fn main() {
-    let str = include_str!("part_1.txt");
+    let str = include_str!("./inputs/part_1.txt");
 
     let lines: Vec<&str> = str.split("\n").collect();
     let mut values: Vec<u32> = Vec::new();
