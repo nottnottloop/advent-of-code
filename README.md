@@ -1,10 +1,7 @@
-# Advent of Code
-
+## Progress
 ✅ - Completed
 
 🤔 - Implemented own solution, but got an idea of the trick of how to solve the problem
-
-## Progress
 <details>
 <summary>2023</summary>
 
