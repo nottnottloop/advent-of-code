@@ -28,7 +28,7 @@ struct Mapping {
 
 fn main() {
     let start_time = std::time::Instant::now();
-    let mut lines: Vec<&str> = include_str!("input.txt").lines().collect();
+    let mut lines: Vec<&str> = include_str!("./inputs/input.txt").lines().collect();
     let unprocessed_seeds: Vec<i64> = parse_number_line(lines.remove(0).split("seeds: ").last().unwrap());
 
     let mut seeds_iter = unprocessed_seeds.iter();
@@ -41,7 +41,7 @@ fn main() {
         seed_mappings.push(Mapping { difference: 0, source_range: 0..0, destination_range: *start_range..(*start_range + *length.unwrap())})
     }
     //dbg!(&seed_mappings);
-    println!("Wow, that's a lot of seeds, more than 10: {:?}", sum);
+    println!("Wow, that's a lot of seeds, more than 20: {:?}", sum);
 
     let mut master_garden_map: Vec<Vec<Mapping>> = Vec::new();
     let mut unprocessed_master_garden_map: Vec<Vec<&str>> = Vec::new();
