@@ -1,7 +1,7 @@
 ## Progress
 ✅ - Completed
 
-🤔 - Implemented own solution, but got an idea of the trick of how to solve the problem
+🤔 - I needed to get AoC specific help to solve this problem initially
 
 📎 - I want to revisit this problem in the future to see if I can improve my solution
 
