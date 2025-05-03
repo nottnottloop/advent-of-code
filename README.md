@@ -54,7 +54,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 | Day 6    |   ✅    |    ✅    |
 | Day 7    |   ✅     |    ✅    |
 | Day 8    |    ✅    |    ✅🤔    |
-| Day 9    |        |        |
+| Day 9    |    ✅    |    ✅    |
 | Day 10   |        |        |
 | Day 11   |        |        |
 | Day 12   |        |        |
