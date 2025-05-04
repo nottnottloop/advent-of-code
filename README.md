@@ -8,8 +8,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 
 🤔 - I read some AoC specific help to solve this problem initially
 
-<details>
-<summary>2024</summary>
+### 2024
 
 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 |
 |----------|--------|--------|----------|--------|--------|----------|--------|--------|
@@ -24,10 +23,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 | Day 9    |   ✅   |    ✅    | Day 19   |        |        |
 | Day 10   |   ✅   |    ✅    | Day 20   |        |        |
 
-</details>
-
-<details>
-<summary>2023</summary>
+### 2023
 
 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 |
 |----------|--------|--------|----------|--------|--------|----------|--------|--------|
@@ -41,5 +37,3 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 | Day 8    |    ✅    |    ✅🤔  | Day 18   |        |        |
 | Day 9    |          |        | Day 19     |        |        |
 | Day 10   |          |        | Day 20     |        |         |
-
-</details>
