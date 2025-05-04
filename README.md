@@ -9,7 +9,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 🤔 - I read some AoC specific help to solve this problem initially
 
 <details>
-<summary>2024</summary>
+<summary style="color:red;">2024</summary>
 
 | Day      | Part 1 | Part 2 |
 |----------|--------|--------|
