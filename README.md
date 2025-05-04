@@ -1,4 +1,4 @@
-# 🎄🎅🎁 Advent of Code 🎄🎅🎁
+# 🎄🎅🎁 Advent of Code 🎁🎅🎄
 Welcome to my Advent of Code solutions. Have a merry time!
 
 Just a note, I often leave my solutions with a lot of commented out code used in the process of debugging, I like to do this so when I read my solution back I can remember the process of iterating over trying to solve the problem. Obviously it's super messy.
