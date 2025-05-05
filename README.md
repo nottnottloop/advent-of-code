@@ -13,7 +13,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 | Day      | Part 1 | Part 2 |
 |----------|--------|--------|----------|--------|--------|----------|--------|--------|
 | Day 1    |   ✅   |✅     | Day 11   |    ✅    |    ✅🤔     | Day 21   |        |        |
-| Day 2    |   ✅   |    ✅ | Day 12   |        |        | Day 22   |        |        |
+| Day 2    |   ✅   |    ✅ | Day 12   |    ✅    |   ✅     | Day 22   |        |        |
 | Day 3    |   ✅   |    ✅ | Day 13   |        |        | Day 23   |        |        |
 | Day 4    |   ✅   |    ✅ | Day 14   |        |        | Day 24   |        |        |
 | Day 5    |   ✅   |  ✅🤔 | Day 15   |        |        | Day 25   |        |        |
