@@ -65,7 +65,7 @@ Just a note, I often leave my solutions with a lot of commented out code used in
 | Day 6    |     ✅    |    ✅     | Day 16   |        |        |
 | Day 7    |     ✅    |     ✅    | Day 17   |        |        |
 | Day 8    |    ✅    |   ✅     | Day 18   |        |        |
-| Day 9    |    ✅    |        | Day 19   |        |        |
+| Day 9    |    ✅    |    ✅    | Day 19   |        |        |
 | Day 10   |        |        | Day 20   |        |        |
 
 ### 2015

@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as file:
+with open('example6.txt', 'r') as file:
     line = [line.strip() for line in file][0]
 
 decompressed = ""
