@@ -1,7 +1,7 @@
 # 🎄🎅🎁 Advent of Code 🎁🎅🎄
 Welcome to my Advent of Code solutions. Have a merry time!
 
-Solutions in this repo are not production grade quality, I will often leave big blocks of commented out code. I like to do this so I can look back on my solutions at a later date and remember the process of iterating trying to solve the problem.
+Solutions in this repo are not production grade quality, I will often leave big blocks of commented out code or solution attempts that didn't work out. I like to do this so I can look back on my solutions at a later date and remember the process of iterating trying to solve the problem.
 
 ## Progress
 ✅ - Completed
